@@ -27,7 +27,7 @@
 {
 "id": "qczjIns",
 "name": "Ins",
-"val": "1",
+"val": "0,
 "type": "number",
 "desc": "第几个ins"
 }
